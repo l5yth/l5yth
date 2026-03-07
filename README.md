@@ -14,4 +14,4 @@ I build low-level, privacy-first systems: protocols, tooling, and the infrastruc
 [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](https://ziglang.org)
 [![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff)](https://rust-lang.org)
 
-![Stats](./profile/stats.svg)
+[![Stats](./profile/stats.svg)](https://github.com/l5yth)
