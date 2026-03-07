@@ -1,8 +1,8 @@
 ## l5y
 
-I build low-level, privacy-first systems — protocols, tooling, and the infrastructure between them. Years of open source work across security, peer-to-peer networking, and operations; always drawn to the edges where the interesting problems live. Radio enthusiast on the side. Open to interesting conversations.
+I build low-level, privacy-first systems: protocols, tooling, and the infrastructure between. Years of open source work across security, peer-to-peer networking, and operations; always drawn to the edges where it gets interesting. Open to conversations.
 
-[![Website](https://img.shields.io/badge/l5y.tech-000?logo=firefox&logoColor=fff)](https://l5y.tech)
+[![Website](https://img.shields.io/badge/l5y.tech-FF7139?logo=firefox&logoColor=fff)](https://l5y.tech)
 [![Matrix](https://img.shields.io/badge/@afri:c--base.org-000?logo=matrix&logoColor=fff)](https://matrix.to/#/@afri:c-base.org)
 [![Signal](https://img.shields.io/badge/@l5y.57-3A76F0?logo=signal&logoColor=fff)](#)
 
@@ -15,5 +15,7 @@ I build low-level, privacy-first systems — protocols, tooling, and the infrast
 [![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff)](https://rust-lang.org)
 
 ![Stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
+
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
