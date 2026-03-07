@@ -15,7 +15,3 @@ I build low-level, privacy-first systems: protocols, tooling, and the infrastruc
 [![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff)](https://rust-lang.org)
 
 ![Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
-
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
