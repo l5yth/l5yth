@@ -4,7 +4,7 @@ I build low-level, privacy-first systems: protocols, tooling, and the infrastruc
 
 [![Website](https://img.shields.io/badge/l5y.tech-FF7139?logo=firefox&logoColor=fff)](https://l5y.tech)
 [![Matrix](https://img.shields.io/badge/@afri:c--base.org-000?logo=matrix&logoColor=fff)](https://matrix.to/#/@afri:c-base.org)
-[![Signal](https://img.shields.io/badge/@l5y.57-3A76F0?logo=signal&logoColor=fff)](#)
+[![Signal](https://img.shields.io/badge/@blanck.79-3A76F0?logo=signal&logoColor=fff)](#)
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](https://archlinux.org)
 [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff)](https://gentoo.org)
