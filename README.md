@@ -1,6 +1,6 @@
 ## l5y
 
-I build low-level, privacy-first systems: protocols, tooling, and the infrastructure between. Years of open source work across security, peer-to-peer networking, and operations; always drawn to the edges where it gets interesting. Open to conversations.
+I build low-level, privacy-first systems: protocols, tooling, and infrastructure. ~~12~~ 13 years of open source work across security, peer-to-peer networking, and operations.
 
 [![Website](https://img.shields.io/badge/l5y.tech-FF7139?logo=firefox&logoColor=fff)](https://l5y.tech)
 [![Matrix](https://img.shields.io/badge/@afri:c--base.org-000?logo=matrix&logoColor=fff)](https://matrix.to/#/@afri:c-base.org)
